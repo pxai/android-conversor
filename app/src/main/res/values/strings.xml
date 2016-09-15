@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titulo">Conversor de euros</string>
+    <string name="app_name">Conversor</string>
+    <string name="labelValor">Introduce euros</string>
+    <string name="resultado">0</string>
+        
+</resources>
